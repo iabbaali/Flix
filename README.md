@@ -19,3 +19,6 @@ While developing this application, I learned about Pods in iOS applications and 
 ### App Walkthough GIF
 
 <img src="http://g.recordit.co/4OO1clktVh.gif" width=250><br>
+
+---
+**NOTE:** When cloning this application, there is one piece of information you must fill in in order to build and run properly. In a separate Swift file (i.e. Constants.swift), create 1 constant variable: APIKEY. The API key is used to retrieve information from The Movie Database API. After configuring this constant, you can successfully run Flix!
